@@ -20,7 +20,7 @@ A clean and modern landing page for a Vegan Store, built using **HTML**, **CSS**
 
 ## 🌍 Live Demo
 
-[👉 Click here to view on GitHub Pages](https://gajulakavya12.github.io/vegan-store)
+[👉 Click here to view on GitHub Pages](https://gajulakavya12.github.io/VeganStore/)
 
 ## 🔧 Tech Stack
 
